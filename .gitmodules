@@ -1,0 +1,6 @@
+[submodule "etudiant-service"]
+	path = etudiant-service
+	url = https://github.com/salimahmudi/API_GestionEtudiants.git
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/MounirGaiby/notification-service-isga.git
